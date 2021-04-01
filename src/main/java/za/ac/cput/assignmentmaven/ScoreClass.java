@@ -7,8 +7,16 @@ package za.ac.cput.assignmentmaven;
 
 /**
  *
- * @author Rusty Mabiala
+ * @author SMANGELE MABASO 220047154
  */
-public class MainClass {
+public class ScoreClass {
+ 
     
+    public int testEquality(int score1, int score2){
+        return score1 + score2;
+}
+   public int testIdentity(int score1, int score2){
+   return score1 = score2;
+   }
+ 
 }
