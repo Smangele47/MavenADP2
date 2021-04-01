@@ -34,7 +34,7 @@ public class MainClassTest {
     // you are request to create your own class if you are not 
     // confortable with master class.
     // you can also create you own pom file, however you have to 
-    // ignore it before merge it 
+    // ignore it before merge it. ok
     
     
     
